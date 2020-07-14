@@ -60,7 +60,7 @@ a successful registration can be done using valid data, and logout and the login
 
 ### 4) Utilities Package
 Contains the classes that can handle the extra work that can be requested in the project <br/>
-a) Helper.java <br/>
+#### a) Helper.java <br/>
 i) Contains two important methods <br/>
 ii) The public static void captureScreenShot() responsible for saving the capture screenshot of the failed executed test case <br/>
 iii) The verifyLink(String urlLink) for manage and save the coming HTTP request in the txt file <br/> <br/>
