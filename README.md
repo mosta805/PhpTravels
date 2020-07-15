@@ -6,7 +6,7 @@ Description : Automated Test Cases For the registration process <br/>
 Browsers : Chrome, Firefox <br/>
 Framework : Selenium With Maven And TestNg <br/>
 implemented By : Mostafa Ezz <br/>
-The task was done using Page Object Model (Pom) design pattern and Data-Driver (DDT) approach. <br/>
+The task was done using Page Object Model (Pom) design pattern and Data-Driven (DDT) approach. <br/>
 The project is divided to four main packages: <br/>
 ### 1) Pages Package
 Contains all the UI page for POM classes, it consists of 4 classes <br/>
